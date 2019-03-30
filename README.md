@@ -4,7 +4,9 @@
 ## Installation
 
 ```bash
-npm install code-example --save
+npm install @cloud3/notebook --save
+# OR
+yarn add @cloud3/notebook
 ```
 
 ## Using
