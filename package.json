@@ -1,7 +1,8 @@
 {
   "name": "@cloud3/notebook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Notebook of Sadat Hossain",
+  "private": false,
   "main": "index.js",
   "repository": "https://github.com/Sadathossain/notebook.git",
   "author": "Sadat Hossain",
