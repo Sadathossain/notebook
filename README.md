@@ -1,6 +1,8 @@
 # notebook
 ---
 
+Notebook for Sadat Hossain
+
 ## Installation
 
 ```bash
@@ -13,7 +15,7 @@ yarn add @cloud3/notebook
 
 ```js
 import('notebook/lib/php.js').then((data) => {
-  console.log('Language PHP Code Example:', data.default);
+  console.log('Language PHP related notes:', data.default);
 });
 ```
 
